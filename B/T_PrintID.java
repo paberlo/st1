@@ -1,4 +1,4 @@
-package concurrent_assignment1.B;
+package src.concurrent_assignment1.B;
 
 /**
  * Create class T_PrintID which extends Thread:
